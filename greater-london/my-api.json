@@ -33,7 +33,7 @@
 			"type":"Feature",
 			"properties":{
 				"AREA_CODE":"LBO",
-				"DESCRIPTIO":"Islington",
+				"DESCRIPTIO":"London Borough",
 				"FILE_NAME":"GREATER_LONDON_AUTHORITY",
 				"NUMBER":84.0,
 				"NUMBER0":1349.0,
